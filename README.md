@@ -1,5 +1,12 @@
+<div align="center">
+  <h1>
+  Welcome to YanisLaribi page
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
+
 <div id="header" align="center">
-  <img src="https://shorturl.at/ejpsw" width="200"/>
+  <img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" width="200"/>
 </div>
 
 <div id="badges" align="center">
@@ -12,12 +19,6 @@
   <img src="https://komarev.com/ghpvc/?username=YanisLaribi&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div align="center">
-  <h1>
-  Hello coders
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
