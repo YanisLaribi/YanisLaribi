@@ -24,15 +24,15 @@
 
 ### :man_technologist: About Me :
 
-I am a software engineer student, from Canada <img src="https://shorturl.at/euyQV" width="15"/>.
+👨‍💻 I’m a Software Engineering student from Canada, passionate about technology and problem-solving.  
 
-- :telescope: I’m looking for a great opportunity to develop myself and showcase my technical skills.
+🔭 Currently seeking opportunities to grow, collaborate, and showcase my technical skills through meaningful projects.  
 
-- :seedling: Exploring Cybersecurity & AI — driven by curiosity and a passion for learning.
+🌱 Exploring **Cybersecurity** and **Artificial Intelligence**, driven by curiosity and a love for continuous learning.  
 
-- :zap: Currently working on a Spaceship Game 🚀
+⚡ Working on an exciting **Spaceship Game 🚀** — combining creativity and logic to bring ideas to life.  
 
-- :mailbox:You can reach me by clicking on this: [![Linkedin Badge](https://img.shields.io/badge/-Yanis-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/teddy-kana-6a26832b9)  or  yanislaribi123@gmail.com
+📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yanislaribi/) or reach out at **yanislaribi123@gmail.com**.
 
 ---
 
