@@ -20,23 +20,19 @@
 </div>
 
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 ---
 
 ### :man_technologist: About Me :
 
-I am a Computer Science student <img src="https://shorturl.at/sBCH8" width="30"> from Canada <img src="https://shorturl.at/euyQV" width="15"/>.
+I am a software engineer student, from Canada <img src="https://shorturl.at/euyQV" width="15"/>.
 
 - :telescope: I’m looking for a great opportunity to develop myself and showcase my technical skills.
 
 - :seedling: Exploring Cybersecurity, AI and Data Analysis in Sports.
 
-- :zap: In my free time, I solve problems on HackerRank and build personal projects you can see on my GitHub public profile.
+- :zap: Currently working on a Spaceship Game 🚀
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Teddy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/teddy-kana-6a26832b9)
+- :mailbox:You can reach me by clicking on this: [![Linkedin Badge](https://img.shields.io/badge/-Yanis-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/teddy-kana-6a26832b9)  or  yanislaribi123@gmail.com
 
 ---
 
